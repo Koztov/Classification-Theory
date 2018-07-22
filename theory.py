@@ -1,4 +1,3 @@
-# http://joshlawman.com/metrics-classification-report-breakdown-precision-recall-f1/
 import seaborn as sns 
 import matplotlib.pyplot as plt
 
